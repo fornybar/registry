@@ -35,6 +35,17 @@
         "repo": "terranix",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "utgard",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "utgard",
+        "type": "github"
+      }
     }
   ],
   "version": 2
