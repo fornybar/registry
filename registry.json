@@ -68,6 +68,17 @@
         "repo": "terranix-azurerm",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "redpanda",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "redpanda",
+        "type": "github"
+      }
     }
   ],
   "version": 2
