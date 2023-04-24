@@ -79,6 +79,17 @@
         "repo": "redpanda",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "ftp-ingest",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "bkkp",
+        "repo": "ftp-ingest",
+        "type": "github"
+      }
     }
   ],
   "version": 2
