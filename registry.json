@@ -90,6 +90,17 @@
         "repo": "ftp-ingest",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "nordpool-ftp",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "nordpool-ftp",
+        "type": "github"
+      }
     }
   ],
   "version": 2
