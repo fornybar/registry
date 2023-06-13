@@ -31,7 +31,7 @@
       },
       "to": {
         "owner": "terranix",
-        "ref": "2.5.5",
+        "ref": "2.6.0",
         "repo": "terranix",
         "type": "github"
       }
