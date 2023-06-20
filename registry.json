@@ -103,6 +103,18 @@
         "repo": "terranix-azurerm",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "azure",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "kfollesdal",
+        "ref": "azure-image",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
     }
   ],
   "version": 2
