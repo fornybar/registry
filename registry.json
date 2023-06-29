@@ -115,6 +115,18 @@
         "repo": "nixpkgs",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "nix",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "nixos",
+        "ref": "2.16.1",
+        "repo": "nix",
+        "type": "github"
+      }
     }
   ],
   "version": 2
