@@ -111,7 +111,7 @@
       },
       "to": {
         "owner": "kfollesdal",
-        "ref": "azure-image",
+        "ref": "azure-image-23.05",
         "repo": "nixpkgs",
         "type": "github"
       }
