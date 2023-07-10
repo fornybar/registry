@@ -127,6 +127,17 @@
         "repo": "nix",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "utils",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "utils",
+        "type": "github"
+      }
     }
   ],
   "version": 2
