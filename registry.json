@@ -138,6 +138,17 @@
         "repo": "utils",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "nixosVm",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "nixos.vm",
+        "type": "github"
+      }
     }
   ],
   "version": 2
