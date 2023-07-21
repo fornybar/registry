@@ -138,6 +138,17 @@
         "repo": "utils",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "ftp-mirror",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "ftp-mirror",
+        "type": "github"
+      }
     }
   ],
   "version": 2
