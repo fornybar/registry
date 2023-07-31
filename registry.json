@@ -160,6 +160,18 @@
         "repo": "nixos.vm",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "pc",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "ref": "nixos-23.05",
+        "repo": "pc",
+        "type": "github"
+      }
     }
   ],
   "version": 2
