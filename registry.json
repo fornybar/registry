@@ -184,6 +184,17 @@
         "repo": "home-manager",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "grafana",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "grafana",
+        "type": "github"
+      }
     }
   ],
   "version": 2
