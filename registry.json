@@ -195,6 +195,17 @@
         "repo": "grafana",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "data-ingest",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "data-ingest",
+        "type": "github"
+      }
     }
   ],
   "version": 2
