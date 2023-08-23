@@ -203,7 +203,7 @@
       },
       "to": {
         "owner": "fornybar",
-        "repo": "midgard",
+        "repo": "midgard-lib",
         "type": "github"
       }
     },
