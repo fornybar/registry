@@ -187,17 +187,6 @@
     },
     {
       "from": {
-        "id": "midgard",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "fornybar",
-        "repo": "midgard",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "git-ingest",
         "type": "indirect"
       },
