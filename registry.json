@@ -130,17 +130,6 @@
     },
     {
       "from": {
-        "id": "ftp-ingest",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "fornybar",
-        "repo": "ftp-ingest",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "nixosVm",
         "type": "indirect"
       },
@@ -204,6 +193,17 @@
       "to": {
         "owner": "fornybar",
         "repo": "midgard",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "git-ingest",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "git-ingest",
         "type": "github"
       }
     }
