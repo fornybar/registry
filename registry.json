@@ -206,6 +206,17 @@
         "repo": "midgard-lib",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "pia-bronze",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "pia-bronze",
+        "type": "github"
+      }
     }
   ],
   "version": 2
