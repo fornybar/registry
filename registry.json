@@ -214,7 +214,7 @@
       },
       "to": {
         "owner": "fornybar",
-        "repo": "pia-bronze",
+        "repo": "pia.bronze",
         "type": "github"
       }
     }
