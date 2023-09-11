@@ -217,6 +217,17 @@
         "repo": "pia.bronze",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "tss",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "tss",
+        "type": "github"
+      }
     }
   ],
   "version": 2
