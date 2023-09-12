@@ -228,6 +228,18 @@
         "repo": "tss",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "nixpkgs-unstable",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "NixOS",
+        "ref": "master",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
     }
   ],
   "version": 2
