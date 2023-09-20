@@ -261,6 +261,17 @@
         "repo": "tss",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "pia-utils",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "pia.utils",
+        "type": "github"
+      }
     }
   ],
   "version": 2
