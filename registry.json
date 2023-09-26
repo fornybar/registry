@@ -272,6 +272,17 @@
         "repo": "pia.utils",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "timgest",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "timgest",
+        "type": "github"
+      }
     }
   ],
   "version": 2
