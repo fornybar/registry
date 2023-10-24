@@ -283,6 +283,17 @@
         "repo": "timgest",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "edgedb",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "edgedb",
+        "type": "github"
+      }
     }
   ],
   "version": 2
