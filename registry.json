@@ -262,6 +262,28 @@
         "repo": "edgedb",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "ask-utils",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "ask.utils",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "ask-bronze",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "ask.bronze",
+        "type": "github"
+      }
     }
   ],
   "version": 2
