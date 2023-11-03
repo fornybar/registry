@@ -316,6 +316,17 @@
         "repo": "ask.bronze",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "ask-silver",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "ask.silver",
+        "type": "github"
+      }
     }
   ],
   "version": 2
