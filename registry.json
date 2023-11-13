@@ -327,6 +327,17 @@
         "repo": "ask.silver",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "roadmap",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "roadmap",
+        "type": "github"
+      }
     }
   ],
   "version": 2
