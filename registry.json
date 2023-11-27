@@ -338,6 +338,17 @@
         "repo": "roadmap",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "pre-commit-hooks",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "cachix",
+        "repo": "pre-commit-hooks.nix",
+        "type": "github"
+      }
     }
   ],
   "version": 2
