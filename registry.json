@@ -107,18 +107,6 @@
     },
     {
       "from": {
-        "id": "nix",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "nixos",
-        "ref": "2.17.0",
-        "repo": "nix",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "ftp-mirror",
         "type": "indirect"
       },
@@ -315,6 +303,18 @@
       "to": {
         "owner": "cachix",
         "repo": "pre-commit-hooks.nix",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "nix",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "nixos",
+        "ref": "2.19.2",
+        "repo": "nix",
         "type": "github"
       }
     }
