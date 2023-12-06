@@ -129,18 +129,6 @@
     },
     {
       "from": {
-        "id": "pc",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "fornybar",
-        "ref": "nixos-23.05",
-        "repo": "pc",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "home-manager",
         "type": "indirect"
       },
@@ -315,6 +303,17 @@
         "owner": "nixos",
         "ref": "2.19.2",
         "repo": "nix",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "pc",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "pc",
         "type": "github"
       }
     }
