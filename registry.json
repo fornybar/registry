@@ -71,18 +71,6 @@
     },
     {
       "from": {
-        "id": "terranix-azurerm",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "fornybar",
-        "ref": "nixos-23.05",
-        "repo": "terranix-azurerm",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "azure",
         "type": "indirect"
       },
@@ -313,6 +301,17 @@
       "to": {
         "owner": "fornybar",
         "repo": "utgard",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "terranix-azurerm",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "terranix-azurerm",
         "type": "github"
       }
     }
