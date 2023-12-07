@@ -71,18 +71,6 @@
     },
     {
       "from": {
-        "id": "utgard",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "fornybar",
-        "ref": "nixos-23.05",
-        "repo": "utgard",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "terranix-azurerm",
         "type": "indirect"
       },
@@ -314,6 +302,17 @@
       "to": {
         "owner": "fornybar",
         "repo": "pc",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "utgard",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "utgard",
         "type": "github"
       }
     }
