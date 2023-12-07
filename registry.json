@@ -314,6 +314,17 @@
         "repo": "terranix-azurerm",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "smghub",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "smghub",
+        "type": "github"
+      }
     }
   ],
   "version": 2
