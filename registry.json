@@ -360,6 +360,17 @@
         "repo": "smghub",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "smg-api",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "smg.api",
+        "type": "github"
+      }
     }
   ],
   "version": 2
