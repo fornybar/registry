@@ -371,6 +371,17 @@
         "repo": "smg.api",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "atlantis",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "atlantis",
+        "type": "github"
+      }
     }
   ],
   "version": 2
