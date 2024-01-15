@@ -382,6 +382,17 @@
         "repo": "atlantis",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "onboarding",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "onboarding",
+        "type": "github"
+      }
     }
   ],
   "version": 2
