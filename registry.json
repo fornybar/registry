@@ -401,7 +401,7 @@
       },
       "to": {
         "owner": "fornybar",
-        "repo": "nixos-deply",
+        "repo": "nixos-deploy",
         "type": "github"
       }
     }
