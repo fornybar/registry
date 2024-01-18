@@ -393,6 +393,17 @@
         "repo": "onboarding",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "nixos-deploy",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "nixos-deply",
+        "type": "github"
+      }
     }
   ],
   "version": 2
