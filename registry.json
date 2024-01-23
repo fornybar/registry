@@ -228,17 +228,6 @@
     },
     {
       "from": {
-        "id": "ask-silver",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "fornybar",
-        "repo": "ask-silver",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "roadmap",
         "type": "indirect"
       },
@@ -367,6 +356,17 @@
       "to": {
         "owner": "fornybar",
         "repo": "nixos-deploy",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "ask-silver",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "ask.silver",
         "type": "github"
       }
     }
