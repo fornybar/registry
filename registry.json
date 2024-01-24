@@ -391,6 +391,17 @@
         "repo": "aggregattilgjengelighet.import",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "ask-raw",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "ask.raw",
+        "type": "github"
+      }
     }
   ],
   "version": 2
