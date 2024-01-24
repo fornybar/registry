@@ -404,6 +404,42 @@
         "repo": "nixos-deploy",
         "type": "github"
       }
+<<<<<<< HEAD
+=======
+    },
+    {
+      "from": {
+        "id": "ask-silver",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "ask.silver",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "timgest",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "timgest",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "ask-raw",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "ask.raw",
+        "type": "github"
+      }
+>>>>>>> c789e7f (added ask-raw to registry)
     }
   ],
   "version": 2
