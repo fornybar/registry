@@ -404,8 +404,6 @@
         "repo": "nixos-deploy",
         "type": "github"
       }
-<<<<<<< HEAD
-=======
     },
     {
       "from": {
@@ -439,7 +437,6 @@
         "repo": "ask.raw",
         "type": "github"
       }
->>>>>>> c789e7f (added ask-raw to registry)
     }
   ],
   "version": 2
