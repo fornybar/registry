@@ -391,6 +391,17 @@
         "repo": "ask.raw",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "intradaymap",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "intradaymap",
+        "type": "github"
+      }
     }
   ],
   "version": 2
