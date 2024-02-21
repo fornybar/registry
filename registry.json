@@ -380,6 +380,17 @@
         "repo": "timgest",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "aggregattilgjengelighet",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "aggregattilgjengelighet.import",
+        "type": "github"
+      }
     }
   ],
   "version": 2
