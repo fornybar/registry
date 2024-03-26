@@ -295,17 +295,6 @@
     },
     {
       "from": {
-        "id": "smghub",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "fornybar",
-        "repo": "smghub",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "smg-api",
         "type": "indirect"
       },
