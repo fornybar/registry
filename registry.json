@@ -391,6 +391,17 @@
         "repo": "ask.raw",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "smgfakt",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "smgfakt",
+        "type": "github"
+      }
     }
   ],
   "version": 2
