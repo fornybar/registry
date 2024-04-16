@@ -413,6 +413,17 @@
         "repo": "smgfakt",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "volue",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "volue",
+        "type": "github"
+      }
     }
   ],
   "version": 2
