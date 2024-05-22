@@ -413,6 +413,17 @@
         "repo": "volue",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "utetid",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "utetid",
+        "type": "github"
+      }
     }
   ],
   "version": 2
