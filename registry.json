@@ -424,6 +424,17 @@
         "repo": "utetid",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "autoprog",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "autoprog",
+        "type": "github"
+      }
     }
   ],
   "version": 2
