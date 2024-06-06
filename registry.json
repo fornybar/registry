@@ -446,6 +446,17 @@
         "repo": "autoprog",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "nordpool",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "nordpool",
+        "type": "github"
+      }
     }
   ],
   "version": 2
