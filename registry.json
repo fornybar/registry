@@ -457,6 +457,17 @@
         "repo": "nordpool",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "aurora_smg",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "aurora_smg",
+        "type": "github"
+      }
     }
   ],
   "version": 2
