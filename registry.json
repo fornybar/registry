@@ -457,6 +457,17 @@
         "repo": "aurora_smg",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "intradaymap",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "intradaymap.joel",
+        "type": "github"
+      }
     }
   ],
   "version": 2
