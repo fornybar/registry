@@ -250,18 +250,6 @@
     },
     {
       "from": {
-        "id": "nix",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "nixos",
-        "ref": "2.22.1",
-        "repo": "nix",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "pc",
         "type": "indirect"
       },
@@ -466,6 +454,18 @@
       "to": {
         "owner": "fornybar",
         "repo": "intradaymap.joel",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "nix",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "nixos",
+        "ref": "2.23.0",
+        "repo": "nix",
         "type": "github"
       }
     }
