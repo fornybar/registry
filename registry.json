@@ -468,6 +468,17 @@
         "repo": "intradaymap.joel",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "smg-writer",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "smg.writer",
+        "type": "github"
+      }
     }
   ],
   "version": 2
