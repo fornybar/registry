@@ -479,6 +479,17 @@
         "repo": "smg.writer",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "minstevann",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "minstevann",
+        "type": "github"
+      }
     }
   ],
   "version": 2
