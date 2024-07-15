@@ -501,6 +501,17 @@
         "repo": "entsoe",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "skm",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "skm",
+        "type": "github"
+      }
     }
   ],
   "version": 2
