@@ -490,6 +490,17 @@
         "repo": "minstevann",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "entsoe",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "entsoe",
+        "type": "github"
+      }
     }
   ],
   "version": 2
