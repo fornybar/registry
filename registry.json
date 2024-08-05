@@ -523,6 +523,17 @@
         "repo": "shop",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "powerbot",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "powerbot",
+        "type": "github"
+      }
     }
   ],
   "version": 2
