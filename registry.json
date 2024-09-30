@@ -545,6 +545,28 @@
         "repo": "data-ingest-nats",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "questdb",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "questdb",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "quest-ingest",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "quest-ingest",
+        "type": "github"
+      }
     }
   ],
   "version": 2
