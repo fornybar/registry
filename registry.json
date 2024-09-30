@@ -534,6 +534,17 @@
         "repo": "powerbot",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "data-ingest-nats",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "data-ingest-nats",
+        "type": "github"
+      }
     }
   ],
   "version": 2
