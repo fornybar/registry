@@ -567,6 +567,17 @@
         "repo": "quest-ingest",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "nordpool-market",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "nordpool.marketdata",
+        "type": "github"
+      }
     }
   ],
   "version": 2
