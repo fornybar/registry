@@ -578,6 +578,17 @@
         "repo": "nordpool.marketdata",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "intraday-trades",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "intraday.trades",
+        "type": "github"
+      }
     }
   ],
   "version": 2
