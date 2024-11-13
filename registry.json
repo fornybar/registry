@@ -589,6 +589,17 @@
         "repo": "intraday.trades",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "jobweb",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "jobweb",
+        "type": "github"
+      }
     }
   ],
   "version": 2
