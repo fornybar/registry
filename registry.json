@@ -600,6 +600,17 @@
         "repo": "jobweb",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "prodrisk",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "prodrisk",
+        "type": "github"
+      }
     }
   ],
   "version": 2
