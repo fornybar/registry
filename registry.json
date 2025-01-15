@@ -611,6 +611,17 @@
         "repo": "prodrisk",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "jobtech",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "jobtech",
+        "type": "github"
+      }
     }
   ],
   "version": 2
