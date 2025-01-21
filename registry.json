@@ -504,17 +504,6 @@
     },
     {
       "from": {
-        "id": "skm",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "fornybar",
-        "repo": "skm",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "shop",
         "type": "indirect"
       },
