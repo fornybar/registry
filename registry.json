@@ -622,6 +622,17 @@
         "repo": "jobtech",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "smg",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "smg",
+        "type": "github"
+      }
     }
   ],
   "version": 2
