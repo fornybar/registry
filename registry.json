@@ -644,6 +644,17 @@
         "repo": "aurora",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "emps",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "emps",
+        "type": "github"
+      }
     }
   ],
   "version": 2
