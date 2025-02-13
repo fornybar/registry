@@ -644,6 +644,17 @@
         "repo": "aurora",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "tidb",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "tidb",
+        "type": "github"
+      }
     }
   ],
   "version": 2
