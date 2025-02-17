@@ -666,6 +666,17 @@
         "repo": "tidb",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "disbatch",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "disbatch",
+        "type": "github"
+      }
     }
   ],
   "version": 2
