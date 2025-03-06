@@ -666,6 +666,17 @@
         "repo": "disbatch",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "stormgeo",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "stormgeo",
+        "type": "github"
+      }
     }
   ],
   "version": 2
