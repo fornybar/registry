@@ -688,6 +688,17 @@
         "repo": "stormgeo",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "nordpool-auctions",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "nordpool.auctions",
+        "type": "github"
+      }
     }
   ],
   "version": 2
