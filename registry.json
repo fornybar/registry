@@ -26,6 +26,18 @@
     },
     {
       "from": {
+        "id": "nixpkgs-vidar",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "NixOS",
+        "ref": "nixos-unstable",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
         "id": "terranix",
         "type": "indirect"
       },
