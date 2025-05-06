@@ -711,6 +711,17 @@
         "repo": "nordpool.auctions",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "natsconfigurer",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "natsconfigurer",
+        "type": "github"
+      }
     }
   ],
   "version": 2
