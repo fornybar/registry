@@ -710,6 +710,17 @@
         "repo": "natsconfigurer",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "treefmt-nix",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "numtide",
+        "repo": "treefmt-nix",
+        "type": "github"
+      }
     }
   ],
   "version": 2
