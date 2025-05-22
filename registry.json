@@ -26,18 +26,6 @@
     },
     {
       "from": {
-        "id": "nixpkgs-vidar",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "NixOS",
-        "ref": "nixos-unstable",
-        "repo": "nixpkgs",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "terranix",
         "type": "indirect"
       },
@@ -731,6 +719,18 @@
       "to": {
         "owner": "numtide",
         "repo": "treefmt-nix",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "nixpkgs-vidar",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "c3d3a794fd14bab7fa93e82ed4f6e2cc0d2a6a20",
         "type": "github"
       }
     }
