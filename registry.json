@@ -382,17 +382,6 @@
     },
     {
       "from": {
-        "id": "smgfakt",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "fornybar",
-        "repo": "smgfakt",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "volue",
         "type": "indirect"
       },
