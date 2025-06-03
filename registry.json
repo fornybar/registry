@@ -711,6 +711,17 @@
         "rev": "c3d3a794fd14bab7fa93e82ed4f6e2cc0d2a6a20",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "nats-file-sync",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "nats-file-sync",
+        "type": "github"
+      }
     }
   ],
   "version": 2
