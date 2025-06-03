@@ -766,6 +766,17 @@
         "repo": "montel",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "nats-file-sync",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "nats-file-sync",
+        "type": "github"
+      }
     }
   ],
   "version": 2
