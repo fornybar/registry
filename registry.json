@@ -733,6 +733,17 @@
         "repo": "nats-file-sync",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "embriq-api",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "embriq.api",
+        "type": "github"
+      }
     }
   ],
   "version": 2
