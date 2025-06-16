@@ -736,7 +736,7 @@
     },
     {
       "from": {
-        "id": "repo-to-register",
+        "id": "nats-surveyor",
         "type": "indirect"
       },
       "to": {
