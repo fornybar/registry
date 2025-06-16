@@ -733,6 +733,17 @@
         "repo": "embriq.api",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "repo-to-register",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "nats-surveyor",
+        "type": "github"
+      }
     }
   ],
   "version": 2
