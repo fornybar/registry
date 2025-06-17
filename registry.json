@@ -755,6 +755,17 @@
         "repo": "nats-surveyor",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "montel",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "montel",
+        "type": "github"
+      }
     }
   ],
   "version": 2
