@@ -766,6 +766,18 @@
         "repo": "montel",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "nixpkgs-powerbot-pc",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "02e9e38c0352c4d9604c358840ae4cc0adfc5ef3",
+        "type": "github"
+      }
     }
   ],
   "version": 2
