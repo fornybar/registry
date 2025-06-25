@@ -766,6 +766,18 @@
         "repo": "montel",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "nixpkgs-2505",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "nixos",
+        "ref": "nixos-25.05",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
     }
   ],
   "version": 2
