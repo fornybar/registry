@@ -744,6 +744,17 @@
         "repo": "hops",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "hops",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "hops",
+        "type": "github"
+      }
     }
   ],
   "version": 2
