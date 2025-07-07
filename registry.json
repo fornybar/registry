@@ -733,6 +733,17 @@
         "rev": "c3d3a794fd14bab7fa93e82ed4f6e2cc0d2a6a20",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "hops",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "hops",
+        "type": "github"
+      }
     }
   ],
   "version": 2
