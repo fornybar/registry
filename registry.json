@@ -360,17 +360,6 @@
     },
     {
       "from": {
-        "id": "ask-raw",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "fornybar",
-        "repo": "ask.raw",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "aggregattilgjengelighet",
         "type": "indirect"
       },
