@@ -767,6 +767,17 @@
         "repo": "emps",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "opentelemetry",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "opentelemetry",
+        "type": "github"
+      }
     }
   ],
   "version": 2
