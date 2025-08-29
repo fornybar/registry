@@ -770,23 +770,23 @@
     },
     {
       "from": {
-        "id": "hops",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "fornybar",
-        "repo": "hops",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "opentelemetry",
         "type": "indirect"
       },
       "to": {
         "owner": "fornybar",
         "repo": "opentelemetry",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "hops",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "hops",
         "type": "github"
       }
     }
