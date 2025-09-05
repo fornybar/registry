@@ -800,6 +800,17 @@
         "repo": "hops",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "elhub",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "elhub",
+        "type": "github"
+      }
     }
   ],
   "version": 2
