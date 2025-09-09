@@ -769,35 +769,23 @@
     },
     {
       "from": {
-        "id": "nixpkgs-2505",
+        "id": "nats-file-sync",
         "type": "indirect"
       },
       "to": {
-        "owner": "nixos",
-        "ref": "nixos-25.05",
-        "repo": "nixpkgs",
+        "owner": "fornybar",
+        "repo": "nats-file-sync",
         "type": "github"
       }
     },
     {
       "from": {
-        "id": "opentelemetry",
+        "id": "nats-surveyor",
         "type": "indirect"
       },
       "to": {
         "owner": "fornybar",
-        "repo": "opentelemetry",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "hops",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "fornybar",
-        "repo": "hops",
+        "repo": "nats-surveyor",
         "type": "github"
       }
     },
