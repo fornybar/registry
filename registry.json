@@ -799,6 +799,17 @@
         "repo": "opentelemetry",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "versiro",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "versiro",
+        "type": "github"
+      }
     }
   ],
   "version": 2
