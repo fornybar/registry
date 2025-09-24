@@ -811,6 +811,17 @@
         "repo": "versiro",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "shop-dashboards",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "shop-dashboards",
+        "type": "github"
+      }
     }
   ],
   "version": 2
