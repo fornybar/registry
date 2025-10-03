@@ -821,6 +821,17 @@
         "repo": "shop-dashboards",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "sintef-packages",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "sintef-packages",
+        "type": "github"
+      }
     }
   ],
   "version": 2
