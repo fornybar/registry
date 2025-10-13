@@ -832,6 +832,17 @@
         "repo": "sintef-packages",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "optimeering",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "optimeering",
+        "type": "github"
+      }
     }
   ],
   "version": 2
