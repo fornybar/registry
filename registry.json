@@ -844,6 +844,17 @@
         "repo": "optimeering",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "planned_outage",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "planned_outage",
+        "type": "github"
+      }
     }
   ],
   "version": 2
