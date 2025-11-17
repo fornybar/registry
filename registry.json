@@ -854,6 +854,17 @@
         "repo": "planned_outage",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "feldera-apply",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "feldera.apply",
+        "type": "github"
+      }
     }
   ],
   "version": 2
