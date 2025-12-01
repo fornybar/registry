@@ -2,18 +2,6 @@
   "flakes": [
     {
       "from": {
-        "id": "nixpkgs-small",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "NixOS",
-        "ref": "nixos-25.05-small",
-        "repo": "nixpkgs",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "terranix",
         "type": "indirect"
       },
@@ -863,6 +851,18 @@
       "to": {
         "owner": "NixOS",
         "ref": "nixos-25.11",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "nixpkgs-small",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "NixOS",
+        "ref": "nixos-25.11-small",
         "repo": "nixpkgs",
         "type": "github"
       }
