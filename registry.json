@@ -865,6 +865,17 @@
         "repo": "feldera.apply",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "delta2file",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "delta2file",
+        "type": "github"
+      }
     }
   ],
   "version": 2
