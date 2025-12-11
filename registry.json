@@ -876,6 +876,17 @@
         "repo": "delta2file",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "shyft-eviny",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "shyft-eviny",
+        "type": "github"
+      }
     }
   ],
   "version": 2
