@@ -702,18 +702,6 @@
     },
     {
       "from": {
-        "id": "nixpkgs-vidar",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "NixOS",
-        "ref": "nixos-25.05",
-        "repo": "nixpkgs",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "nats-file-sync",
         "type": "indirect"
       },
