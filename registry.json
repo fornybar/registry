@@ -7,7 +7,7 @@
       },
       "to": {
         "owner": "NixOS",
-        "ref": "nixos-25.05",
+        "ref": "nixos-25.11",
         "repo": "nixpkgs",
         "type": "github"
       }
@@ -19,7 +19,7 @@
       },
       "to": {
         "owner": "NixOS",
-        "ref": "nixos-25.05-small",
+        "ref": "nixos-25.11-small",
         "repo": "nixpkgs",
         "type": "github"
       }
