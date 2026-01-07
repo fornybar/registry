@@ -217,17 +217,6 @@
     },
     {
       "from": {
-        "id": "ask-bronze",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "fornybar",
-        "repo": "ask.bronze",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "roadmap",
         "type": "indirect"
       },
