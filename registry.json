@@ -865,6 +865,17 @@
         "repo": "shyft-eviny",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "ge-apm",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "ge.apm",
+        "type": "github"
+      }
     }
   ],
   "version": 2
