@@ -876,6 +876,17 @@
         "repo": "ge.apm",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "evidok-api",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "evidok.api",
+        "type": "github"
+      }
     }
   ],
   "version": 2
