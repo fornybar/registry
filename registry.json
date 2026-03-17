@@ -887,6 +887,17 @@
         "repo": "evidok.api",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "meteomatics",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "meteomatics",
+        "type": "github"
+      }
     }
   ],
   "version": 2
