@@ -898,6 +898,17 @@
         "repo": "meteomatics",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "meteorologisk",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "meteorologisk",
+        "type": "github"
+      }
     }
   ],
   "version": 2
