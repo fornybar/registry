@@ -1,5 +1,5 @@
 # Flake registry
-Out flake registry
+Our flake registry
 
 # Register
 To register a repo call `repo-to-register` from the `fornybar` organization run:
