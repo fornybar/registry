@@ -898,6 +898,28 @@
         "repo": "meteomatics",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "meteorologisk",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "meteorologisk",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "python-package-index",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "python-package-index",
+        "type": "github"
+      }
     }
   ],
   "version": 2
