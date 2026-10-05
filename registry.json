@@ -920,6 +920,17 @@
         "repo": "python-package-index",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "kisters",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "kisters",
+        "type": "github"
+      }
     }
   ],
   "version": 2
