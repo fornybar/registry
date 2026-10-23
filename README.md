@@ -2,10 +2,10 @@
 Our flake registry
 
 # Register
-To register a repo call `repo-to-register` from the `fornybar` organization run:
+From the repository root, register a repo called `repo-to-register` from the `fornybar` organization with:
 
 ```bash
-nix registry add --registry ./registry.json repo-to-register github:fornybar/repo-to-register
+nix registry add --registry "$PWD/registry.json" repo-to-register github:fornybar/repo-to-register
 ```
 
 # Development
