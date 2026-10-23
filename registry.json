@@ -931,6 +931,17 @@
         "repo": "kisters",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "smp-proxy",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "fornybar",
+        "repo": "smp-proxy",
+        "type": "github"
+      }
     }
   ],
   "version": 2
